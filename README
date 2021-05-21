@@ -1,0 +1,3 @@
+predict the speed at which a pet is adopted, based on the pet’s listing on PetFinder. Sometimes a profile represents a group of pets. In this case, the speed of adoption is determined by the speed at which all of the pets are adopted.
+
+The data included tabular, and image data.
